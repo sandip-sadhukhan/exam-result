@@ -1,0 +1,95 @@
+@font-face{
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Regular.ttf')
+}
+
+@font-face{
+    font-family: 'OpensansCondensed';
+    src: url('../font/OpenSansCondensed-Light.ttf')
+}
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #dfe6e9;
+    font-family: 'Roboto',sans-serif;
+}
+
+.homepage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.homepage img{
+    height: 250px;
+    width: 250px;
+    margin: 10px 20px;
+}
+
+#sem {
+    letter-spacing: 1.5px;
+    margin: 5px 25px;
+    font-family: 'OpensansCondensed', sans-serif;
+    font-size: 30px;
+}
+
+#roll_number{
+    display: block;
+    padding: 8px 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+    font-size: 20px;
+    transition: .2s ease-in;
+    width:100%;
+    box-shadow: .5px 1px 5px rgba(0,0,0,0.7);
+}
+
+#roll_number::placeholder{
+    font-size: 12px;
+    font-family: 'Roboto';
+}
+
+#roll_number:focus{
+    box-shadow: 0 2.5px 15px rgba(0,0,0,0.7);
+    outline: 0;
+}
+
+#submitbtn {
+    padding: 10px 30px;
+    background-color: #00b894;
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    border-radius: 6px;
+    color: white;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: .3s ease;
+    
+}
+
+#submitbtn:hover{
+    cursor: pointer;
+    background-color: #00cec9;
+}
+
+#submitbtn:focus{
+    outline:0;
+}
+
+@media(max-width: 600px){
+    .homepage img{
+        height: 150px;
+        width: 150px;
+    }
+    
+    #sem{
+        font-size: 20px;
+    }
+}
