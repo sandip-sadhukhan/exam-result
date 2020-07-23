@@ -19,7 +19,7 @@ body{
     font-family: 'Roboto',sans-serif;
 }
 
-.homepage{
+#homepage{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,7 +27,7 @@ body{
     align-items: center;
 }
 
-.homepage img{
+#homepage img{
     height: 250px;
     width: 250px;
     margin: 10px 20px;
@@ -83,12 +83,59 @@ body{
     outline:0;
 }
 
+#resultpage{
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#result-header {
+    margin: 15px auto;
+    font-family: 'OpensansCondensed';
+    font-size: 30px;
+}
+
+.details{
+    font-family: 'Roboto';
+    margin: 5px auto;
+    font-size: 20px;
+}
+
+.buttons{
+    margin: 20px auto;
+}
+
+.buttons button{
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.buttons button:hover{
+    cursor: pointer;
+}
+
+.buttons button:focus{
+    outline: 0;
+}
+
+#downloadBtn{
+    margin-right: 5px;
+    background-color: #00b894;
+    color: #fff;
+}
+
+#resetBtn{
+    background-color: #00cec9;
+    color:#fff;
+}
+
 @media(max-width: 600px){
     .homepage img{
         height: 150px;
         width: 150px;
     }
-    
     #sem{
         font-size: 20px;
     }

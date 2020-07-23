@@ -7,13 +7,25 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body onload="ready()">
-    <div class="homepage">
-        <img src="images/bcet_logo.png" alt="" id="logo">
+    <!-- Home Page -->
+    <div id="homepage">
+        <a href="index.html"><img src="images/bcet_logo.png" alt="" id="logo"></a>
         <p id="sem">3RD SEM CSE B</p>
         <form>
             <input type="number" id="roll_number" placeholder="Enter Your University Roll Number..."><br>
             <button type="submit" id="submitbtn">Submit</button>
         </form>
+    </div>
+    <!-- Result Page -->
+    <div id="resultpage">
+        <p id="result-header">Your Result</p>
+        <p class="details">Name : <span id="result-name"></span></p>
+        <p class="details">Roll Number : <span id="result-rollno"></span></p>
+        <p class="details">CGPA : <span id="result-cgpa"></span></p>
+        <div class="buttons">
+            <button id="downloadBtn">Download Result</button>
+            <button id="resetBtn">Check other Result</button>
+        </div>
     </div>
     <script src="js/script.js"></script>
 </body>
