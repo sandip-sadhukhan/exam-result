@@ -1,0 +1,2 @@
+1. find all names, rollno, registration no, sgpa
+2. table
