@@ -1,0 +1,998 @@
+{
+	"SM01": {
+		"12500118002": {
+			"name": "YASHASWI",
+			"rollNo": "12500118002",
+			"cgpa": 8.11
+		},
+		"12500118003": {
+			"name": "VIVEKANAND",
+			"rollNo": "12500118003",
+			"cgpa": 6.17
+		},
+		"12500118004": {
+			"name": "VISHAL KUMAR THAKUR",
+			"rollNo": "12500118004",
+			"cgpa": 6.49
+		},
+		"12500118005": {
+			"name": "VIRAT PRASAD",
+			"rollNo": "12500118005",
+			"cgpa": 6.34
+		},
+		"12500118006": {
+			"name": "UJJWAL KUMAR SHARMA",
+			"rollNo": "12500118006",
+			"cgpa": 6.09
+		},
+		"12500118007": {
+			"name": "TATHAGATA BANDYOPADHYAY",
+			"rollNo": "12500118007",
+			"cgpa": 7.09
+		},
+		"12500118008": {
+			"name": "SURAJ KUMAR",
+			"rollNo": "12500118008",
+			"cgpa": 8.26
+		},
+		"12500118009": {
+			"name": "SUNNY BURMAN",
+			"rollNo": "12500118009",
+			"cgpa": 6.66
+		},
+		"12500118010": {
+			"name": "SUMIT KUMAR",
+			"rollNo": "12500118010",
+			"cgpa": 6.43
+		},
+		"12500118012": {
+			"name": "SUBHAM KUMAR RAY",
+			"rollNo": "12500118012",
+			"cgpa": 7.11
+		},
+		"12500118013": {
+			"name": "SUBHADIP DAS",
+			"rollNo": "12500118013",
+			"cgpa": 6.54
+		},
+		"12500118014": {
+			"name": "SRIYA KUMARI",
+			"rollNo": "12500118014",
+			"cgpa": 7.29
+		},
+		"12500118015": {
+			"name": "SRIJAN SINGH",
+			"rollNo": "12500118015",
+			"cgpa": 7.17
+		},
+		"12500118016": {
+			"name": "SONAM KUMARI",
+			"rollNo": "12500118016",
+			"cgpa": 6.83
+		},
+		"12500118017": {
+			"name": "SONAM KUMARI",
+			"rollNo": "12500118017",
+			"cgpa": 6.4
+		},
+		"12500118018": {
+			"name": "SONALIKA HAZRA",
+			"rollNo": "12500118018",
+			"cgpa": 6.34
+		},
+		"12500118019": {
+			"name": "SONALI",
+			"rollNo": "12500118019",
+			"cgpa": 7.34
+		},
+		"12500118020": {
+			"name": "SK ASHRAF",
+			"rollNo": "12500118020",
+			"cgpa": 6.06
+		},
+		"12500118021": {
+			"name": "SK ASHADUL RAHAMAN",
+			"rollNo": "12500118021",
+			"cgpa": 6.8
+		},
+		"12500118022": {
+			"name": "SIMRAN SRIVASTAVA",
+			"rollNo": "12500118022",
+			"cgpa": 7.11
+		},
+		"12500118023": {
+			"name": "SHUBHAM MAZUMDAR",
+			"rollNo": "12500118023",
+			"cgpa": 6.97
+		},
+		"12500118024": {
+			"name": "SHUBHAM KUMAR",
+			"rollNo": "12500118024",
+			"cgpa": 5.8
+		},
+		"12500118025": {
+			"name": "SHUBHAM KUMAR",
+			"rollNo": "12500118025",
+			"cgpa": 6.57
+		},
+		"12500118026": {
+			"name": "SHRISTI SEAL",
+			"rollNo": "12500118026",
+			"cgpa": 7.54
+		},
+		"12500118027": {
+			"name": "SHIV PRAKASH SHIVAM",
+			"rollNo": "12500118027",
+			"cgpa": 5.94
+		},
+		"12500118028": {
+			"name": "SHASHANK SHEKHAR",
+			"rollNo": "12500118028",
+			"cgpa": 6.8
+		},
+		"12500118029": {
+			"name": "SHANTANU KUMAR CHOUDHARY",
+			"rollNo": "12500118029",
+			"cgpa": 6.14
+		},
+		"12500118030": {
+			"name": "SHAMMI KUMAR",
+			"rollNo": "12500118030",
+			"cgpa": 7.97
+		},
+		"12500118031": {
+			"name": "SHALONI",
+			"rollNo": "12500118031",
+			"cgpa": 6.2
+		},
+		"12500118032": {
+			"name": "SHAILY SINGH",
+			"rollNo": "12500118032",
+			"cgpa": 7.11
+		},
+		"12500118033": {
+			"name": "SAYANDEEP BARAI",
+			"rollNo": "12500118033",
+			"cgpa": 5.94
+		},
+		"12500118034": {
+			"name": "SAYAN DATTA",
+			"rollNo": "12500118034",
+			"cgpa": 5.26
+		},
+		"12500118035": {
+			"name": "SATYAM UPADHYAY",
+			"rollNo": "12500118035",
+			"cgpa": 6.71
+		},
+		"12500118036": {
+			"name": "SATWIK JHA",
+			"rollNo": "12500118036",
+			"cgpa": 6.49
+		},
+		"12500118037": {
+			"name": "SARASIJ MAJEE",
+			"rollNo": "12500118037",
+			"cgpa": 6.8
+		},
+		"12500118038": {
+			"name": "SANYA GUPTA",
+			"rollNo": "12500118038",
+			"cgpa": 8.49
+		},
+		"12500118039": {
+			"name": "SANTOSH RAWANI",
+			"rollNo": "12500118039",
+			"cgpa": 6.51
+		},
+		"12500118040": {
+			"name": "SANDIP SADHUKHAN",
+			"rollNo": "12500118040",
+			"cgpa": 7.89
+		},
+		"12500118041": {
+			"name": "RUQAIYA SHABBIR",
+			"rollNo": "12500118041",
+			"cgpa": "Incomplete"
+		},
+		"12500118042": {
+			"name": "RUMELA GARAI",
+			"rollNo": "12500118042",
+			"cgpa": 6.11
+		},
+		"12500118043": {
+			"name": "RIYA BOSE",
+			"rollNo": "12500118043",
+			"cgpa": 7.2
+		},
+		"12500118044": {
+			"name": "RITESH KUMAR SINGH",
+			"rollNo": "12500118044",
+			"cgpa": 6.4
+		},
+		"12500118045": {
+			"name": "RISHABH SEAL",
+			"rollNo": "12500118045",
+			"cgpa": 6.34
+		},
+		"12500118046": {
+			"name": "RISHABH RAJ",
+			"rollNo": "12500118046",
+			"cgpa": 6.2
+		},
+		"12500118047": {
+			"name": "RAVINDRA KUMAR VERMA",
+			"rollNo": "12500118047",
+			"cgpa": 6.06
+		},
+		"12500118048": {
+			"name": "RAVI SHANKER",
+			"rollNo": "12500118048",
+			"cgpa": 6.2
+		},
+		"12500118049": {
+			"name": "RAVI SHANKAR KUMAR",
+			"rollNo": "12500118049",
+			"cgpa": 6.89
+		},
+		"12500118050": {
+			"name": "RAVI SHANKAR",
+			"rollNo": "12500118050",
+			"cgpa": 6.31
+		},
+		"12500118051": {
+			"name": "RAVI RANJAN",
+			"rollNo": "12500118051",
+			"cgpa": 6.17
+		},
+		"12500118052": {
+			"name": "RAVI RAJ",
+			"rollNo": "12500118052",
+			"cgpa": 6.57
+		},
+		"12500118053": {
+			"name": "RATNESH MANI",
+			"rollNo": "12500118053",
+			"cgpa": 7.4
+		},
+		"12500118054": {
+			"name": "RAMLAL KUMAR",
+			"rollNo": "12500118054",
+			"cgpa": 5.09
+		},
+		"12500118055": {
+			"name": "RAMEEZ RAZA RIAZ",
+			"rollNo": "12500118055",
+			"cgpa": 5.4
+		},
+		"12500118056": {
+			"name": "RAJU SK",
+			"rollNo": "12500118056",
+			"cgpa": 5.43
+		},
+		"12500118057": {
+			"name": "RAJ HIMANSHU",
+			"rollNo": "12500118057",
+			"cgpa": 6.89
+		},
+		"12500118058": {
+			"name": "RAHUL GAUTAM",
+			"rollNo": "12500118058",
+			"cgpa": 6.83
+		},
+		"12500118059": {
+			"name": "PURBAYAN PAL",
+			"rollNo": "12500118059",
+			"cgpa": 7.34
+		},
+		"12500118060": {
+			"name": "PRANGSHU MUKHERJEE",
+			"rollNo": "12500118060",
+			"cgpa": 6.4
+		},
+		"12500118061": {
+			"name": "PRANAB PAL",
+			"rollNo": "12500118061",
+			"cgpa": 7.57
+		},
+		"12500118062": {
+			"name": "PRAGYA KIRTI",
+			"rollNo": "12500118062",
+			"cgpa": 8.8
+		},
+		"12500118063": {
+			"name": "PRADIPTA BHUIN",
+			"rollNo": "12500118063",
+			"cgpa": 6.17
+		},
+		"12500118064": {
+			"name": "PIYUSH KUMAR",
+			"rollNo": "12500118064",
+			"cgpa": 8.23
+		},
+		"12500118065": {
+			"name": "PIJUSH PAL",
+			"rollNo": "12500118065",
+			"cgpa": 6.66
+		},
+		"12500118066": {
+			"name": "NISHA DAN",
+			"rollNo": "12500118066",
+			"cgpa": 6.8
+		},
+		"12500118067": {
+			"name": "NIKHIL KUMAR TIWARI",
+			"rollNo": "12500118067",
+			"cgpa": 6.83
+		},
+		"12500118068": {
+			"name": "NIKHIL KUMAR",
+			"rollNo": "12500118068",
+			"cgpa": 6.11
+		}
+	},
+	"SM02": {
+		"12500118002": {
+			"name": "YASHASWI",
+			"rollNo": "12500118002",
+			"cgpa": 7.78
+		},
+		"12500118003": {
+			"name": "VIVEKANAND",
+			"rollNo": "12500118003",
+			"cgpa": 6.39
+		},
+		"12500118004": {
+			"name": "VISHAL KUMAR THAKUR",
+			"rollNo": "12500118004",
+			"cgpa": 7.12
+		},
+		"12500118005": {
+			"name": "VIRAT PRASAD",
+			"rollNo": "12500118005",
+			"cgpa": 7.61
+		},
+		"12500118006": {
+			"name": "UJJWAL KUMAR SHARMA",
+			"rollNo": "12500118006",
+			"cgpa": 6.9
+		},
+		"12500118007": {
+			"name": "TATHAGATA BANDYOPADHYAY",
+			"rollNo": "12500118007",
+			"cgpa": 7.12
+		},
+		"12500118008": {
+			"name": "SURAJ KUMAR",
+			"rollNo": "12500118008",
+			"cgpa": 7.85
+		},
+		"12500118009": {
+			"name": "SUNNY BURMAN",
+			"rollNo": "12500118009",
+			"cgpa": 7.54
+		},
+		"12500118010": {
+			"name": "SUMIT KUMAR",
+			"rollNo": "12500118010",
+			"cgpa": 7.68
+		},
+		"12500118012": {
+			"name": "SUBHAM KUMAR RAY",
+			"rollNo": "12500118012",
+			"cgpa": 7.46
+		},
+		"12500118013": {
+			"name": "SUBHADIP DAS",
+			"rollNo": "12500118013",
+			"cgpa": 6.37
+		},
+		"12500118014": {
+			"name": "SRIYA KUMARI",
+			"rollNo": "12500118014",
+			"cgpa": 7.56
+		},
+		"12500118015": {
+			"name": "SRIJAN SINGH",
+			"rollNo": "12500118015",
+			"cgpa": 6.93
+		},
+		"12500118016": {
+			"name": "SONAM KUMARI",
+			"rollNo": "12500118016",
+			"cgpa": 7.24
+		},
+		"12500118017": {
+			"name": "SONAM KUMARI",
+			"rollNo": "12500118017",
+			"cgpa": 6.15
+		},
+		"12500118018": {
+			"name": "SONALIKA HAZRA",
+			"rollNo": "12500118018",
+			"cgpa": 6.24
+		},
+		"12500118019": {
+			"name": "SONALI",
+			"rollNo": "12500118019",
+			"cgpa": 7.56
+		},
+		"12500118020": {
+			"name": "SK ASHRAF",
+			"rollNo": "12500118020",
+			"cgpa": 6.46
+		},
+		"12500118021": {
+			"name": "SK ASHADUL RAHAMAN",
+			"rollNo": "12500118021",
+			"cgpa": 7.24
+		},
+		"12500118022": {
+			"name": "SIMRAN SRIVASTAVA",
+			"rollNo": "12500118022",
+			"cgpa": 6.71
+		},
+		"12500118023": {
+			"name": "SHUBHAM MAZUMDAR",
+			"rollNo": "12500118023",
+			"cgpa": 7.41
+		},
+		"12500118024": {
+			"name": "SHUBHAM KUMAR",
+			"rollNo": "12500118024",
+			"cgpa": 6.56
+		},
+		"12500118025": {
+			"name": "SHUBHAM KUMAR",
+			"rollNo": "12500118025",
+			"cgpa": 7.27
+		},
+		"12500118026": {
+			"name": "SHRISTI SEAL",
+			"rollNo": "12500118026",
+			"cgpa": 7.41
+		},
+		"12500118027": {
+			"name": "SHIV PRAKASH SHIVAM",
+			"rollNo": "12500118027",
+			"cgpa": 7.02
+		},
+		"12500118028": {
+			"name": "SHASHANK SHEKHAR",
+			"rollNo": "12500118028",
+			"cgpa": 6.9
+		},
+		"12500118029": {
+			"name": "SHANTANU KUMAR CHOUDHARY",
+			"rollNo": "12500118029",
+			"cgpa": 5.78
+		},
+		"12500118030": {
+			"name": "SHAMMI KUMAR",
+			"rollNo": "12500118030",
+			"cgpa": 8.39
+		},
+		"12500118031": {
+			"name": "SHALONI",
+			"rollNo": "12500118031",
+			"cgpa": 6.22
+		},
+		"12500118032": {
+			"name": "SHAILY SINGH",
+			"rollNo": "12500118032",
+			"cgpa": 7.15
+		},
+		"12500118033": {
+			"name": "SAYANDEEP BARAI",
+			"rollNo": "12500118033",
+			"cgpa": 6.95
+		},
+		"12500118034": {
+			"name": "SAYAN DATTA",
+			"rollNo": "12500118034",
+			"cgpa": 5.46
+		},
+		"12500118035": {
+			"name": "SATYAM UPADHYAY",
+			"rollNo": "12500118035",
+			"cgpa": 6.95
+		},
+		"12500118036": {
+			"name": "SATWIK JHA",
+			"rollNo": "12500118036",
+			"cgpa": 6.73
+		},
+		"12500118037": {
+			"name": "SARASIJ MAJEE",
+			"rollNo": "12500118037",
+			"cgpa": 7.27
+		},
+		"12500118038": {
+			"name": "SANYA GUPTA",
+			"rollNo": "12500118038",
+			"cgpa": 8.15
+		},
+		"12500118039": {
+			"name": "SANTOSH RAWANI",
+			"rollNo": "12500118039",
+			"cgpa": 6.27
+		},
+		"12500118040": {
+			"name": "SANDIP SADHUKHAN",
+			"rollNo": "12500118040",
+			"cgpa": 8.49
+		},
+		"12500118041": {
+			"name": "RUQAIYA SHABBIR",
+			"rollNo": "12500118041",
+			"cgpa": 5.56
+		},
+		"12500118042": {
+			"name": "RUMELA GARAI",
+			"rollNo": "12500118042",
+			"cgpa": 5.95
+		},
+		"12500118043": {
+			"name": "RIYA BOSE",
+			"rollNo": "12500118043",
+			"cgpa": 7.41
+		},
+		"12500118044": {
+			"name": "RITESH KUMAR SINGH",
+			"rollNo": "12500118044",
+			"cgpa": 6.98
+		},
+		"12500118045": {
+			"name": "RISHABH SEAL",
+			"rollNo": "12500118045",
+			"cgpa": 7.27
+		},
+		"12500118046": {
+			"name": "RISHABH RAJ",
+			"rollNo": "12500118046",
+			"cgpa": 7.0
+		},
+		"12500118047": {
+			"name": "RAVINDRA KUMAR VERMA",
+			"rollNo": "12500118047",
+			"cgpa": 6.85
+		},
+		"12500118048": {
+			"name": "RAVI SHANKER",
+			"rollNo": "12500118048",
+			"cgpa": 6.32
+		},
+		"12500118049": {
+			"name": "RAVI SHANKAR KUMAR",
+			"rollNo": "12500118049",
+			"cgpa": 7.27
+		},
+		"12500118050": {
+			"name": "RAVI SHANKAR",
+			"rollNo": "12500118050",
+			"cgpa": 6.37
+		},
+		"12500118051": {
+			"name": "RAVI RANJAN",
+			"rollNo": "12500118051",
+			"cgpa": 6.63
+		},
+		"12500118052": {
+			"name": "RAVI RAJ",
+			"rollNo": "12500118052",
+			"cgpa": 7.1
+		},
+		"12500118053": {
+			"name": "RATNESH MANI",
+			"rollNo": "12500118053",
+			"cgpa": 7.02
+		},
+		"12500118054": {
+			"name": "RAMLAL KUMAR",
+			"rollNo": "12500118054",
+			"cgpa": 6.66
+		},
+		"12500118055": {
+			"name": "RAMEEZ RAZA RIAZ",
+			"rollNo": "12500118055",
+			"cgpa": 6.83
+		},
+		"12500118056": {
+			"name": "RAJU SK",
+			"rollNo": "12500118056",
+			"cgpa": 6.49
+		},
+		"12500118057": {
+			"name": "RAJ HIMANSHU",
+			"rollNo": "12500118057",
+			"cgpa": 7.54
+		},
+		"12500118058": {
+			"name": "RAHUL GAUTAM",
+			"rollNo": "12500118058",
+			"cgpa": 6.44
+		},
+		"12500118059": {
+			"name": "PURBAYAN PAL",
+			"rollNo": "12500118059",
+			"cgpa": 7.2
+		},
+		"12500118060": {
+			"name": "PRANGSHU MUKHERJEE",
+			"rollNo": "12500118060",
+			"cgpa": 7.02
+		},
+		"12500118061": {
+			"name": "PRANAB PAL",
+			"rollNo": "12500118061",
+			"cgpa": 7.66
+		},
+		"12500118062": {
+			"name": "PRAGYA KIRTI",
+			"rollNo": "12500118062",
+			"cgpa": 9.07
+		},
+		"12500118063": {
+			"name": "PRADIPTA BHUIN",
+			"rollNo": "12500118063",
+			"cgpa": 6.76
+		},
+		"12500118064": {
+			"name": "PIYUSH KUMAR",
+			"rollNo": "12500118064",
+			"cgpa": 7.83
+		},
+		"12500118065": {
+			"name": "PIJUSH PAL",
+			"rollNo": "12500118065",
+			"cgpa": 6.46
+		},
+		"12500118066": {
+			"name": "NISHA DAN",
+			"rollNo": "12500118066",
+			"cgpa": 8.1
+		},
+		"12500118067": {
+			"name": "NIKHIL KUMAR TIWARI",
+			"rollNo": "12500118067",
+			"cgpa": 7.0
+		},
+		"12500118068": {
+			"name": "NIKHIL KUMAR",
+			"rollNo": "12500118068",
+			"cgpa": 7.12
+		}
+	},
+	"SM03": {
+		"12500118002": {
+			"name": "YASHASWI",
+			"rollNo": "12500118002",
+			"cgpa": 8.5
+		},
+		"12500118003": {
+			"name": "VIVEKANAND",
+			"rollNo": "12500118003",
+			"cgpa": 7.41
+		},
+		"12500118004": {
+			"name": "VISHAL KUMAR THAKUR",
+			"rollNo": "12500118004",
+			"cgpa": 7.14
+		},
+		"12500118005": {
+			"name": "VIRAT PRASAD",
+			"rollNo": "12500118005",
+			"cgpa": 7.95
+		},
+		"12500118006": {
+			"name": "UJJWAL KUMAR SHARMA",
+			"rollNo": "12500118006",
+			"cgpa": 6.5
+		},
+		"12500118007": {
+			"name": "TATHAGATA BANDYOPADHYAY",
+			"rollNo": "12500118007",
+			"cgpa": 8.41
+		},
+		"12500118008": {
+			"name": "SURAJ KUMAR",
+			"rollNo": "12500118008",
+			"cgpa": 8.41
+		},
+		"12500118009": {
+			"name": "SUNNY BURMAN",
+			"rollNo": "12500118009",
+			"cgpa": 8.05
+		},
+		"12500118010": {
+			"name": "SUMIT KUMAR",
+			"rollNo": "12500118010",
+			"cgpa": 7.68
+		},
+		"12500118012": {
+			"name": "SUBHAM KUMAR RAY",
+			"rollNo": "12500118012",
+			"cgpa": 7.5
+		},
+		"12500118013": {
+			"name": "SUBHADIP DAS",
+			"rollNo": "12500118013",
+			"cgpa": 6.86
+		},
+		"12500118014": {
+			"name": "SRIYA KUMARI",
+			"rollNo": "12500118014",
+			"cgpa": 8.59
+		},
+		"12500118015": {
+			"name": "SRIJAN",
+			"rollNo": "12500118015",
+			"cgpa": 7.91
+		},
+		"12500118016": {
+			"name": "SONAM KUMARI",
+			"rollNo": "12500118016",
+			"cgpa": 6.86
+		},
+		"12500118017": {
+			"name": "SONAM KUMARI",
+			"rollNo": "12500118017",
+			"cgpa": 6.18
+		},
+		"12500118018": {
+			"name": "SONALIKA HAZRA",
+			"rollNo": "12500118018",
+			"cgpa": 7.59
+		},
+		"12500118019": {
+			"name": "SONALI",
+			"rollNo": "12500118019",
+			"cgpa": 8.23
+		},
+		"12500118020": {
+			"name": "SK ASHRAF",
+			"rollNo": "12500118020",
+			"cgpa": 7.09
+		},
+		"12500118021": {
+			"name": "SK ASHADUL RAHAMAN",
+			"rollNo": "12500118021",
+			"cgpa": 6.91
+		},
+		"12500118022": {
+			"name": "SIMRAN SRIVASTAVA",
+			"rollNo": "12500118022",
+			"cgpa": 7.5
+		},
+		"12500118023": {
+			"name": "SHUBHAM MAZUMDAR",
+			"rollNo": "12500118023",
+			"cgpa": 7.59
+		},
+		"12500118024": {
+			"name": "SHUBHAM KUMAR",
+			"rollNo": "12500118024",
+			"cgpa": 6.82
+		},
+		"12500118025": {
+			"name": "SHUBHAM KUMAR",
+			"rollNo": "12500118025",
+			"cgpa": 6.91
+		},
+		"12500118026": {
+			"name": "SHRISTI SEAL",
+			"rollNo": "12500118026",
+			"cgpa": 7.14
+		},
+		"12500118027": {
+			"name": "SHIV PRAKASH SHIVAM",
+			"rollNo": "12500118027",
+			"cgpa": 6.45
+		},
+		"12500118028": {
+			"name": "SHASHANK SHEKHAR",
+			"rollNo": "12500118028",
+			"cgpa": 6.55
+		},
+		"12500118029": {
+			"name": "SHANTANU KUMAR CHOUDHARY",
+			"rollNo": "12500118029",
+			"cgpa": 4.73
+		},
+		"12500118030": {
+			"name": "SHAMMI KUMAR",
+			"rollNo": "12500118030",
+			"cgpa": 8.77
+		},
+		"12500118031": {
+			"name": "SHALONI",
+			"rollNo": "12500118031",
+			"cgpa": 6.05
+		},
+		"12500118032": {
+			"name": "SHAILY SINGH",
+			"rollNo": "12500118032",
+			"cgpa": 7.73
+		},
+		"12500118033": {
+			"name": "SAYANDEEP BARAI",
+			"rollNo": "12500118033",
+			"cgpa": 7.09
+		},
+		"12500118034": {
+			"name": "SAYAN DATTA",
+			"rollNo": "12500118034",
+			"cgpa": 6.0
+		},
+		"12500118035": {
+			"name": "SATYAM UPADHYAY",
+			"rollNo": "12500118035",
+			"cgpa": 6.82
+		},
+		"12500118036": {
+			"name": "SATWIK JHA",
+			"rollNo": "12500118036",
+			"cgpa": 6.95
+		},
+		"12500118037": {
+			"name": "SARASIJ MAJEE",
+			"rollNo": "12500118037",
+			"cgpa": 7.64
+		},
+		"12500118038": {
+			"name": "SANYA GUPTA",
+			"rollNo": "12500118038",
+			"cgpa": 8.73
+		},
+		"12500118039": {
+			"name": "SANTOSH RAWANI",
+			"rollNo": "12500118039",
+			"cgpa": 6.82
+		},
+		"12500118040": {
+			"name": "SANDIP SADHUKHAN",
+			"rollNo": "12500118040",
+			"cgpa": 9.09
+		},
+		"12500118041": {
+			"name": "RUQAIYA SHABBIR",
+			"rollNo": "12500118041",
+			"cgpa": 5.55
+		},
+		"12500118042": {
+			"name": "RUMELA GARAI",
+			"rollNo": "12500118042",
+			"cgpa": 5.45
+		},
+		"12500118043": {
+			"name": "RIYA BOSE",
+			"rollNo": "12500118043",
+			"cgpa": 7.91
+		},
+		"12500118044": {
+			"name": "RITESH KUMAR SINGH",
+			"rollNo": "12500118044",
+			"cgpa": 7.23
+		},
+		"12500118045": {
+			"name": "RISHABH SEAL",
+			"rollNo": "12500118045",
+			"cgpa": 7.64
+		},
+		"12500118046": {
+			"name": "RISHABH RAJ",
+			"rollNo": "12500118046",
+			"cgpa": 7.09
+		},
+		"12500118047": {
+			"name": "RAVINDRA KUMAR VERMA",
+			"rollNo": "12500118047",
+			"cgpa": 7.64
+		},
+		"12500118048": {
+			"name": "RAVI SHANKER",
+			"rollNo": "12500118048",
+			"cgpa": 7.05
+		},
+		"12500118049": {
+			"name": "RAVI SHANKAR KUMAR",
+			"rollNo": "12500118049",
+			"cgpa": 7.23
+		},
+		"12500118050": {
+			"name": "RAVI SHANKAR",
+			"rollNo": "12500118050",
+			"cgpa": 6.82
+		},
+		"12500118051": {
+			"name": "RAVI RANJAN",
+			"rollNo": "12500118051",
+			"cgpa": 7.18
+		},
+		"12500118052": {
+			"name": "RAVI RAJ",
+			"rollNo": "12500118052",
+			"cgpa": 7.09
+		},
+		"12500118053": {
+			"name": "RATNESH MANI",
+			"rollNo": "12500118053",
+			"cgpa": 6.95
+		},
+		"12500118054": {
+			"name": "RAMLAL KUMAR",
+			"rollNo": "12500118054",
+			"cgpa": 7.45
+		},
+		"12500118055": {
+			"name": "RAMEEZ RAZA RIAZ",
+			"rollNo": "12500118055",
+			"cgpa": 7.09
+		},
+		"12500118056": {
+			"name": "RAJU SK",
+			"rollNo": "12500118056",
+			"cgpa": 6.64
+		},
+		"12500118057": {
+			"name": "RAJ HIMANSHU",
+			"rollNo": "12500118057",
+			"cgpa": 7.41
+		},
+		"12500118058": {
+			"name": "RAHUL GAUTAM",
+			"rollNo": "12500118058",
+			"cgpa": 6.91
+		},
+		"12500118059": {
+			"name": "PURBAYAN PAL",
+			"rollNo": "12500118059",
+			"cgpa": 7.18
+		},
+		"12500118060": {
+			"name": "PRANGSHU MUKHERJEE",
+			"rollNo": "12500118060",
+			"cgpa": 7.5
+		},
+		"12500118061": {
+			"name": "PRANAB PAL",
+			"rollNo": "12500118061",
+			"cgpa": 8.41
+		},
+		"12500118062": {
+			"name": "PRAGYA KIRTI",
+			"rollNo": "12500118062",
+			"cgpa": 9.09
+		},
+		"12500118063": {
+			"name": "PRADIPTA BHUIN",
+			"rollNo": "12500118063",
+			"cgpa": 6.55
+		},
+		"12500118064": {
+			"name": "PIYUSH KUMAR",
+			"rollNo": "12500118064",
+			"cgpa": 7.59
+		},
+		"12500118065": {
+			"name": "PIJUSH PAL",
+			"rollNo": "12500118065",
+			"cgpa": 7.55
+		},
+		"12500118066": {
+			"name": "NISHA DAN",
+			"rollNo": "12500118066",
+			"cgpa": 7.82
+		},
+		"12500118067": {
+			"name": "NIKHIL KUMAR TIWARI",
+			"rollNo": "12500118067",
+			"cgpa": 7.27
+		},
+		"12500118068": {
+			"name": "NIKHIL KUMAR",
+			"rollNo": "12500118068",
+			"cgpa": 7.14
+		}
+	}
+}

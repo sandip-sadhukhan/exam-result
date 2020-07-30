@@ -33,12 +33,21 @@ body{
     margin: 10px 20px;
 }
 
-#sem {
+#msg {
     letter-spacing: 1.5px;
     margin: 5px 25px;
     font-family: 'OpensansCondensed', sans-serif;
-    font-size: 30px;
+    font-size: 28px;
 }
+
+#sem {
+    font-family: 'Roboto', sans-serif;
+    background-color: #dfe6e9;
+    margin: 15px auto;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
 
 #roll_number{
     display: block;
@@ -137,6 +146,7 @@ body{
         width: 150px;
     }
     #sem{
-        font-size: 20px;
+        font-size: 16px;
+
     }
 }

@@ -3,14 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Result Cse 3rd Sem</title>
+    <title>BCET CSE</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body onload="ready()">
     <!-- Home Page -->
     <div id="homepage">
         <a href="index.html"><img src="images/bcet_logo.png" alt="" id="logo"></a>
-        <p id="sem">3RD SEM CSE B</p>
+        <p id="msg">CSE B</p>
+        <select id="sem">
+            <option value="SM01">Semester 1</option>
+            <option value="SM02">Semester 2</option>
+            <option value="SM03" selected>Semester 3</option>
+        </select>
+
         <form>
             <input type="number" id="roll_number" placeholder="Enter Your University Roll Number..."><br>
             <button type="submit" id="submitbtn">Submit</button>
@@ -21,6 +27,7 @@
         <p id="result-header">Your Result</p>
         <p class="details">Name : <span id="result-name"></span></p>
         <p class="details">Roll Number : <span id="result-rollno"></span></p>
+        <p class="details">Semester : <span id="result-sem"></span></p>
         <p class="details">CGPA : <span id="result-cgpa"></span></p>
         <div class="buttons">
             <button id="downloadBtn">Download Result</button>
